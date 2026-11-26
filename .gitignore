@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+kworb_*_daily.csv
+failed_albums.csv
